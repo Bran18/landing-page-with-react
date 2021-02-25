@@ -11,10 +11,7 @@ const Jumbotron = () => {
 					information.
 				</p>
 				<hr className="my-4" />
-				<p>
-					It uses utility classNamees for typography and spacing to
-					space content out within the larger container.
-				</p>
+
 				<p className="lead">
 					<a
 						className="btn btn-primary btn-lg"
